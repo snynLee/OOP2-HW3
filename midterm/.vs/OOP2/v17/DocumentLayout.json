@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\WallManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\WallManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\WallManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\WallManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1C6E58-60C8-42EB-AE55-98174B0E94B5}|OOP2\\OOP2.vcxproj|solutionrelative:OOP2\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\GameObject.h",
+              "RelativeDocumentMoniker": "OOP2\\GameObject.h",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\GameObject.h",
+              "RelativeToolTip": "OOP2\\GameObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:13:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\GameObject.cpp",
+              "RelativeDocumentMoniker": "OOP2\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\GameObject.cpp",
+              "RelativeToolTip": "OOP2\\GameObject.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAKcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T15:03:46.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transform.h",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Transform.h",
+              "RelativeDocumentMoniker": "OOP2\\Transform.h",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Transform.h",
+              "RelativeToolTip": "OOP2\\Transform.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:32:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Transform.cpp",
+              "RelativeDocumentMoniker": "OOP2\\Transform.cpp",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Transform.cpp",
+              "RelativeToolTip": "OOP2\\Transform.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T15:32:02.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Component.h",
+              "RelativeDocumentMoniker": "OOP2\\Component.h",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Component.h",
+              "RelativeToolTip": "OOP2\\Component.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T13:26:19.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Component.cpp",
+              "RelativeDocumentMoniker": "OOP2\\Component.cpp",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Component.cpp",
+              "RelativeToolTip": "OOP2\\Component.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T13:26:14.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Renderer.h",
+              "RelativeDocumentMoniker": "OOP2\\Renderer.h",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Renderer.h",
+              "RelativeToolTip": "OOP2\\Renderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T16:43:29.414Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wall.cpp",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Wall.cpp",
+              "RelativeDocumentMoniker": "OOP2\\Wall.cpp",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Wall.cpp",
+              "RelativeToolTip": "OOP2\\Wall.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T15:30:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wall.h",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Wall.h",
+              "RelativeDocumentMoniker": "OOP2\\Wall.h",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\Wall.h",
+              "RelativeToolTip": "OOP2\\Wall.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:29:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WallManager.h",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\WallManager.h",
+              "RelativeDocumentMoniker": "OOP2\\WallManager.h",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\WallManager.h",
+              "RelativeToolTip": "OOP2\\WallManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T14:52:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WallManager.cpp",
+              "DocumentMoniker": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\WallManager.cpp",
+              "RelativeDocumentMoniker": "OOP2\\WallManager.cpp",
+              "ToolTip": "C:\\Users\\rhdfy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\\uAC1D\uCCB42\\Wall\\midterm\\OOP2\\WallManager.cpp",
+              "RelativeToolTip": "OOP2\\WallManager.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T14:52:18.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
